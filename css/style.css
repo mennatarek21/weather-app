@@ -1,0 +1,51 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.card h5 {
+    font-size: 1.2rem;
+    color: #007bff;
+}
+
+.card p {
+    font-size: 1rem;
+}
+
+#forecastCards .card-body {
+    padding: 20px;
+}
+
+input, textarea {
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: #f1f1f1;
+    padding: 20px 0;
+}
+
+section {
+    display: none;
+}
+
+section.active {
+    display: block;
+}
+
+
+
+
+  
+
+
+  
